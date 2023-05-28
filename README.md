@@ -32,6 +32,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![image](https://github.com/aadithyan22000618/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113586376/609fcd83-3754-440d-aa15-359d7c98ca88)
 
 ### Name:Aadithyan R
 ### Register Number:212222230001
